@@ -1,0 +1,12 @@
+{
+  "name": "storm_bot",
+  "version": "0.0.1",
+  "description": "slack bot",
+  "dependencies": {
+    "node-wit": "^2.0.0",
+    "slack-client": "latest"
+  },
+  "scripts": {
+    "start": "node chat.js"
+  }
+}
